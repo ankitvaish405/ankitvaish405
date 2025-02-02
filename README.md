@@ -1,18 +1,17 @@
-# Ankit Vaish
+# Ankit Gupta
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/897cd757-ea1f-492d-aaf9-6d1674177e08" width="500">
 
 ## 👋 About Me
-I am **Ankit Vaish**, currently pursuing a **Bachelor's in Computer Applications (BCA)** 🎓. As a passionate learner in **computer science**, I am actively honing my skills in **programming, web development, and software engineering**.  
+I am **Ankit Gupta**, currently pursuing a **Bachelor's in Computer Applications (BCA)** 🎓. As a passionate learner in **computer science**, I am actively honing my skills in **programming, web development, and software engineering**.  
 
 ## 🔥 Skills & Expertise  
 ### 🚀 Programming Languages:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>  **JavaScript**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>  **C++**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30"/> **Java**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>  **C++**   
 
 ### 🌐 Web Development:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="30" height="30"/> **HTML** **HTML**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="30" height="30"/> **HTML**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="30" height="30"/> **CSS**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="30" height="30"/> **React.js**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/> **Node.js**  
@@ -28,11 +27,11 @@ I am **Ankit Vaish**, currently pursuing a **Bachelor's in Computer Applications
 - **API Integration**  
 
 ## 📍 Location & Education
-- 🌍 **Based in:** Delhi  
+- 🌍 **Based in:** New Delhi  
 - 🎓 **Education:** BCA from Indira Gandhi National Open University  
 
 
----
+-------------------------------------------
 <table>
   <tr>
     <td>
@@ -54,4 +53,4 @@ I am **Ankit Vaish**, currently pursuing a **Bachelor's in Computer Applications
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ankitvaish&color=blue)  
 
-⭐️ *Feel free to reach out for collaboration or just to say hi!*
+*Feel free to reach out for collaboration or just to say hi!*
