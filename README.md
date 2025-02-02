@@ -7,24 +7,23 @@ I am **Ankit Vaish**, currently pursuing a **Bachelor's in Computer Applications
 
 ## 🔥 Skills & Expertise  
 ### 🚀 Programming Languages:
-- ![Python** **Python**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/> **JavaScript** **JavaScript**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/> **C++** **C++**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30"/> **Java** **Java**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>  **JavaScript**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>  **C++**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30"/> **Java**  
 
 ### 🌐 Web Development:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="30" height="30"/> **HTML** **HTML**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="30" height="30"/> **CSS** **CSS**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="30" height="30"/> **React.js** **React.js**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/> **Node.js** **Node.js**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="30" height="30"/> **CSS**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="30" height="30"/> **React.js**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/> **Node.js**  
 
 ### 🗄️ Database Management:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/> **MySQL** **MySQL**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/> **MongoDB** **MongoDB**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/> **MySQL**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/>  **MongoDB**  
 
 ### 🛠️ Tools & Technologies:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30"/> **Git** **Git**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/> **GitHub** **GitHub**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30"/> **Git**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/> **GitHub**  
 - **Full-Stack Development**  
 - **API Integration**  
 
@@ -32,21 +31,26 @@ I am **Ankit Vaish**, currently pursuing a **Bachelor's in Computer Applications
 - 🌍 **Based in:** Delhi  
 - 🎓 **Education:** BCA from Indira Gandhi National Open University  
 
----
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitvaish&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitvaish&layout=compact&theme=radical)  
 
 ---
-
-## 📌 Pinned Repositories
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=ankitvaish&repo=repo-name&theme=radical)](https://github.com/ankitvaish/Wanderlust)  
-
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/ankitvaish405/WanderLust">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitvaish405&repo=WanderLust&theme=radical" alt="WanderLust Repo"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/ankitvaish405/Spotify-Clone">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitvaish405&repo=Spotify-Clone&theme=radical" alt="Spotify-Clone Repo"/>
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📫 Contact Me
-📧 [Email](ankitvaish405@gmail.com) | 💼 [LinkedIn]([https://linkedin.com/in/ankitvaish](https://www.linkedin.com/in/ankit-gupta-6771312b4)) | 🌐 [Portfolio]([https://yourwebsite.com](https://wanderlust-e35f.onrender.com/listings))  
+📧 [Email](mailto:ankitvaish405@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/ankit-gupta-6771312b4) | 🌐 [Portfolio](https://wanderlust-e35f.onrender.com/listings)  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ankitvaish&color=blue)  
 
