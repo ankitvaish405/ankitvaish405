@@ -8,7 +8,6 @@ I am **Ankit Gupta**, currently pursuing a **Bachelor's in Computer Applications
 ## 🔥 Skills & Expertise  
 ### 🚀 Programming Languages:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>  **JavaScript**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>  **C++**   
 
 ### 🌐 Web Development:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="30" height="30"/> **HTML**  
@@ -26,7 +25,6 @@ I am **Ankit Gupta**, currently pursuing a **Bachelor's in Computer Applications
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30"/> **Git**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/> **GitHub**  
 - **Full-Stack Development**  
-- **API Integration**  
 
 ## 📍 Location & Education
 - 🌍 **Based in:** New Delhi  
