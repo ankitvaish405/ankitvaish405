@@ -18,7 +18,6 @@ I am **Ankit Gupta**, currently pursuing a **Bachelor's in Computer Applications
  
 
 ### 🗄️ Database Management:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/> **MySQL**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/>  **MongoDB**  
 
 ### 🛠️ Tools & Technologies:
