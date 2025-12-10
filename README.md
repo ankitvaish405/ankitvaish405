@@ -13,12 +13,7 @@ I am **Ankit Gupta**, currently pursuing a **Bachelor's in Computer Applications
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="30" height="30"/> **HTML**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="30" height="30"/> **CSS**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="30" height="30"/> **React.js**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/> **Node.js**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express.js" width="30" height="30" style="background: white; padding: 5px; border-radius: 5px;"/> **Express.js**  
  
-
-### 🗄️ Database Management:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/>  **MongoDB**  
 
 ### 🛠️ Tools & Technologies:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30"/> **Git**  
@@ -47,7 +42,7 @@ I am **Ankit Gupta**, currently pursuing a **Bachelor's in Computer Applications
 ---
 
 ## 📫 Contact Me
-📧 [Email](mailto:ankitvaish405@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/ankit-gupta-6771312b4) | 🌐 [Portfolio](https://wanderlust-e35f.onrender.com/listings)  
+📧 [Email](mailto:ankitvaish405@gmail.com) |  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ankitvaish&color=blue)  
 
