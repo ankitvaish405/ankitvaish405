@@ -37,7 +37,7 @@ I am **Ankit Gupta**, currently pursuing a **Bachelor's in Computer Applications
     </td>
     <td>
       <a href="https://github.com/ankitvaish405/Spotify-Clone">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitvaish405&repo=Spotify-Clone&theme=radical" alt="Spotify-Clone Repo"/>
+        <img src="./Photos/logo.png" alt="Spotify-Clone Repo"/>
       </a>
     </td>
   </tr>
