@@ -23,7 +23,6 @@ I am **Ankit Gupta**, currently pursuing a **Bachelor's in Computer Applications
 ### 🛠️ Tools & Technologies:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30"/> **Git**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/> **GitHub**  
-- **Full-Stack Development**  
 
 ## 📍 Location & Education
 - 🌍 **Based in:** New Delhi  
