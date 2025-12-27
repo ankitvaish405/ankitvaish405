@@ -33,16 +33,14 @@ Currently, I am strengthening my expertise in **frontend engineering, backend de
 
 ### Backend Development
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="26"/> **Node.js**
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" width="26"/> **Express.js**
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="26"/> **Express.js**
 ### Databases
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="26"/> **MongoDB**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="26"/> **SQL**
 
 ### Tools & Platforms
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="26"/> **Git**
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="26"/> **GitHub**
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="26"/> **GitHub**
 ---
 
 ## Projects
