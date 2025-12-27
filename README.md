@@ -29,11 +29,11 @@ Currently, I am strengthening my expertise in **frontend engineering, backend de
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="26"/> **Next.js**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="26"/> **Tailwind CSS**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="26"/> **Bootstrap**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/GreenSock-GSAP-logo.svg" width="26"/> **GSAP (Animations)**
+<img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="26"/> **GSAP (Animations)**
 
 ### Backend Development
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="26"/> **Node.js**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="26" style="background:white; padding:3px; border-radius:4px;"/> **Express.js**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="26"/> **Express.js**
 
 ### Databases
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="26"/> **MongoDB**
@@ -41,7 +41,7 @@ Currently, I am strengthening my expertise in **frontend engineering, backend de
 
 ### Tools & Platforms
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="26"/> **Git**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="26" style="filter: invert(1);"/> **GitHub**
+<img src="https://cdn.simpleicons.org/github/000000" width="26"/> **GitHub**
 
 ---
 
