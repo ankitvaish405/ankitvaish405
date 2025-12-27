@@ -1,47 +1,91 @@
-Ankit Gupta
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/897cd757-ea1f-492d-aaf9-6d1674177e08" width="450" />
-About Me
+# Ankit Gupta
 
-I am Ankit Gupta, a BCA undergraduate with a strong foundation in Computer Science and Web Development.
-I focus on building scalable, user-centric web applications using modern javaScript technologies and best development practices.
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/897cd757-ea1f-492d-aaf9-6d1674177e08" width="450" />
+</p>
 
-I am continuously improving my skills in frontend engineering, backend development, and system-level thinking, with a long-term goal of working on high-impact products at global tech companies.
+---
 
-Technical Skills
-Programming Languages
+## About Me
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" /> JavaScript
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" /> TypeScript
+I am **Ankit Gupta**, a **Bachelor of Computer Applications (BCA)** undergraduate with a strong foundation in **Computer Science and Web Development**.
 
-Frontend Development
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" /> HTML5
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" /> CSS3
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" /> React.js
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="28" /> Next.js
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="28" /> Tailwind CSS
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="28" /> Bootstrap
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/greensock/greensock-original.svg" width="28" /> GSAP (Animations)
+I focus on building **scalable, user-centric web applications** using modern **JavaScript technologies** and industry-standard best practices.
 
-Backend Development
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28" /> Node.js
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="28" style="background:white; padding:4px; border-radius:4px;" /> Express.js
+Currently, I am strengthening my expertise in **frontend engineering, backend development, and system-level thinking**, with the goal of contributing to **high-impact products at global technology companies**.
 
-Databases
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28" /> MongoDB
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28" /> SQL
+---
 
-Tools & Platforms
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" /> Git
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" /> GitHub
+## Technical Skills
 
-Projects
-<table> <tr> <td width="50%"> <a href="https://github.com/ankitvaish405/WanderLust"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitvaish405&repo=WanderLust&theme=radical" /> </a> <p><strong>WanderLust</strong><br/> A full-stack web application focused on travel listings, user authentication, and structured data handling.</p> </td> <td width="50%"> <a href="https://github.com/ankitvaish405/Spotify-Clone"> <img src="./Photos/logo.png" height="120"/> </a> <p><strong>Spotify Clone</strong><br/> A frontend-focused project replicating core UI/UX features of Spotify using modern CSS and layout techniques.</p> </td> </tr> </table>
+### Programming Languages
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26"/> **JavaScript**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="26"/> **TypeScript**
 
-Education
-Bachelor of Computer Applications (BCA)
-Indira Gandhi National Open University (IGNOU)
-Location: New Delhi, India
+### Frontend Development
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="26"/> **HTML5**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="26"/> **CSS3**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26"/> **React.js**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="26"/> **Next.js**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="26"/> **Tailwind CSS**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="26"/> **Bootstrap**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/GreenSock-GSAP-logo.svg" width="26"/> **GSAP (Animations)**
 
-Contact
-📧 Email: ankitvaish405@gmail.com
-💼 GitHub: github.com/ankitvaish405
+### Backend Development
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="26"/> **Node.js**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="26" style="background:white; padding:3px; border-radius:4px;"/> **Express.js**
+
+### Databases
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="26"/> **MongoDB**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="26"/> **SQL**
+
+### Tools & Platforms
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="26"/> **Git**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="26" style="filter: invert(1);"/> **GitHub**
+
+---
+
+## Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/ankitvaish405/WanderLust">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitvaish405&repo=WanderLust&theme=radical"/>
+      </a>
+      <p>
+        <strong>WanderLust</strong><br/>
+        A full-stack web application for travel listings featuring user authentication,
+        structured data handling, and scalable backend architecture.
+      </p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/ankitvaish405/Spotify-Clone">
+        <img src="./Photos/logo.png" height="120"/>
+      </a>
+      <p>
+        <strong>Spotify Clone</strong><br/>
+        A frontend-focused project replicating core Spotify UI/UX using modern CSS,
+        responsive layouts, and component-based design.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Education
+
+**Bachelor of Computer Applications (BCA)**  
+Indira Gandhi National Open University (IGNOU)  
+📍 New Delhi, India
+
+---
+
+## Contact
+
+📧 **Email:** ankitvaish405@gmail.com  
+💼 **GitHub:** https://github.com/ankitvaish405  
+
+---
+
