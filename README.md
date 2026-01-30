@@ -54,8 +54,9 @@ Indira Gandhi National Open University (IGNOU)
 
 ## Contact
 
-📧 **Email:** ankitvaish405@gmail.com  
-💼 **GitHub:** https://github.com/ankitvaish405  
+**Email:** ankitvaish405@gmail.com  
+**GitHub:** https://github.com/ankitvaish405
+**Linkedin:** https://www.linkedin.com/in/ankit-gupta-b04a80389/
 
 ---
 
