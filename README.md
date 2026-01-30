@@ -41,32 +41,6 @@ Currently, I am strengthening my expertise in **frontend engineering, backend de
 ### Tools & Platforms
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="26"/> **Git**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="26"/> **GitHub**
-## Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/ankitvaish405/WanderLust">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitvaish405&repo=WanderLust&theme=radical"/>
-      </a>
-      <p>
-        <strong>WanderLust</strong><br/>
-        A full-stack web application for travel listings featuring user authentication,
-        structured data handling, and scalable backend architecture.
-      </p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/ankitvaish405/Spotify-Clone">
-        <img src="./Photos/logo.png" height="120"/>
-      </a>
-      <p>
-        <strong>Spotify Clone</strong><br/>
-        A frontend-focused project replicating core Spotify UI/UX using modern CSS,
-        responsive layouts, and component-based design.
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
