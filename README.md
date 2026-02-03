@@ -29,8 +29,7 @@ Currently, I am strengthening my expertise in **frontend engineering, backend de
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="26"/> **Next.js**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="26"/> **Tailwind CSS**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="26"/> **Bootstrap**
-- <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="26"/> **GSAP**
-
+  
 ### Backend Development
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="26"/> **Node.js**
 - <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" width="26"/> **Express.js**
